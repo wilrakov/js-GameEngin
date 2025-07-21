@@ -13,6 +13,7 @@ Les objectifs sont multiples :
 - Apprendre WebGL pour ensuite passer à OpenGL en C++
 - Apprendre Git
 - Apprendre à créer un backend
+
 Et le but c'est d'avoir une petite lib qui permette d'afficher des graphismes 3D simple et de gérer la synchronisation multiplayer.
 
 # Contributions
