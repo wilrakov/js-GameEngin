@@ -6,11 +6,12 @@
     <title>Game Engin</title>
     <style>
         body { margin: 0; padding: 0; height: 100vh; overflow: hidden; }
-        canvas { display: block; margin: auto; }
+        canvas { display: block; margin: auto; min-height: 100vh; }
     </style>
 </head>
 <body>
     <canvas></canvas>
-    <script type="module" src="src/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gl-matrix@3.4.3/gl-matrix-min.js"></script>
+    <script src="src/main.js"></script>
 </body>
 </html>
